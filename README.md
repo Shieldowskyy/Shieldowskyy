@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shieldowskyy
+- 👋 Hi, I’m @Shieldowskyy A.K.A Shieldziak
 - 👀 I have experience in making advanced games and apps in Unreal Engine 4/5.
 - 🌱 I’m currently learning Python, GDScript and C++
 - 💞️ I’m looking to collaborate on (currently nothing)
