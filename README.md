@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shieldowskyy
-- 👀 I have experience in making semi-advanced game and app projects in Unreal Engine 4/5.
-- 🌱 I’m currently learning Web Development, Python and C++
+- 👀 I have experience in making advanced games and apps in Unreal Engine 4/5.
+- 🌱 I’m currently learning Python, GDScript and C++
 - 💞️ I’m looking to collaborate on (currently nothing)
 - 📫 How to reach me? Email: shieldowskyy@protonmail.com | Signal: shld.05
 
